@@ -7,7 +7,7 @@ VPS PRECISA SER UBUNTU 18 OU 20
 sudo apt install docker.io
 ```
 ```bash
-docker pull cyberpoison/o11-ott-streamer
+docker pull cyberpoison/o11-ott-streamer:latest
 ```
 
 2. Agora roda copia e cola isto:
