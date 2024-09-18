@@ -1,5 +1,5 @@
 ## INSTALL ZERO11
-VPS PRECISA SER UBUNTU 18 OU 20
+FUNCIONA EM VPS UBUNTU 18 OU 20
 
 ## INSTALAÇÃO
 1. Instalar o Docker e baixar a imagem:
@@ -20,3 +20,7 @@ docker run \
   --volume /mnt/o11-ott:/mnt \
   cyberpoison/o11-ott-streamer:latest 
 ```
+## INSTALAÇÃO
+Precisa de Scripts:
+Temos dos streaming: globoplay, sky, youtube e playplus(record).
+Contato: https://t.me/felipeadmin
