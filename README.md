@@ -1,8 +1,10 @@
-## INSTALL O11 DRM
-FUNCIONA EM VPS UBUNTU 18 OU 20
+## INSTALAÇÃO O11 DRM💻
+Requisitos:
 
-## INSTALAÇÃO 💻
+VPS BRASILEIRA COM 8GB E 4CORES NO MINIMO COM UBUNTU 20
+
 Acesse sua maquina através do ssh e siga o passo a passo
+
 
 1. Instalar o Docker:
 ```bash
