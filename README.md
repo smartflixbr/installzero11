@@ -8,12 +8,6 @@ Acesse sua maquina através do ssh e siga o passo a passo
 
 1. Instalar o Docker:
 ```bash
-sudo apt update
-```
-```bash
-sudo apt upgrade
-```
-```bash
 sudo apt install docker.io
 ```
 
