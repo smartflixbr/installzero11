@@ -31,7 +31,6 @@ sudo apt install -Y ffmpeg
 sudo service apache2 restart
 ```
 
-
 ### Instalar o Docker:
 ```bash
 sudo apt install -y docker.io
