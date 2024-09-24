@@ -25,7 +25,7 @@ sudo apt install -y python
 sudo apt install -y unzip
 ```
 ```bash
-sudo apt install -Y ffmpeg
+sudo apt install -y ffmpeg
 ```
 ```bash
 sudo service apache2 restart
