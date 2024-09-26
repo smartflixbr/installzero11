@@ -49,6 +49,12 @@ docker run \
   --volume /mnt/o11-ott:/mnt \
   cyberpoison/o11-ott-streamer:latest 
 ```
+```bash
+sudo timedatectl set-timezone America/Sao_Paulo
+```
+```bash
+sudo reboot
+```
 ### Após instalado, acesse o navegador com seu ip e porta 1234
 
    Ex.: http://186.200.120.44:1234
